@@ -1,0 +1,27 @@
+.use {
+    margin-top: 200px;
+
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 89px;
+    }
+
+    .use__heading {
+        font-family: "Space Mono";
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        color: #495567;
+        // width: 445px;
+    }
+
+    .use__text {
+        width: 445px;
+        font-family: "Lexend Deca";
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #939CAA;
+    }
+}

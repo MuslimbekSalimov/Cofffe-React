@@ -1,0 +1,26 @@
+.about {
+    margin-top: 160px;
+
+    .about__list {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .about__heading {
+        font-family: "Space Mono";
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 28px;
+        color: #495567;
+        
+    }
+
+    .about__text {
+        font-family: "Lexend Deca";
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #939CAA;
+    }
+}

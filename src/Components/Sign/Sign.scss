@@ -1,0 +1,31 @@
+.sign {
+    margin-top: 200px;
+    background-color: #495567;
+    
+    
+    .container {
+        background: url(../img/SignbaImg.png) no-repeat ;
+        background-size: contain;
+        width: 1440px;
+        height: 300px;
+        display: flex;
+        align-items: center;
+        gap: 336px;
+    }
+
+    .sign__heading {
+        font-family: "Space Mono";
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        color: #FFFFFF;
+        // width: 415px;
+        padding-left: 100px;
+    }
+
+    picture {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+    }
+}

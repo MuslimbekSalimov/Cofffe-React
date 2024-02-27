@@ -1,0 +1,28 @@
+.footer {
+    background-color: #333A44;
+    width: 100%;
+
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 570px;
+    }
+
+    .footer__info {
+        display: flex;
+        align-items: center;
+        gap: 58px;
+    }
+
+    .list {
+        display: flex;
+        align-items: center;
+        gap: 33px;
+    }
+
+    picture {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+    }
+}

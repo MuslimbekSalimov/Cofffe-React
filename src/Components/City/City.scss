@@ -1,0 +1,27 @@
+.city {
+    margin-top: 155px;
+
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 220px;
+    }
+
+    .city__heading {
+        // width: 445px;
+        font-family: "Space Mono";
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        color: #495567;
+    }
+
+    .city__text {
+        font-family:" Lexend Deca";
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #939CAA;
+        width: 445px;
+    }
+}

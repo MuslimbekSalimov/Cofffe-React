@@ -1,0 +1,26 @@
+.zero {
+    margin-top: 160px;
+
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 220px;
+    }
+
+    .zero__heading {
+        font-family: "Space Mono";
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        color: #495567;
+    }
+
+    .zero__text {
+        font-family: "Lexend Deca";
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #939CAA;
+        width: 445px;
+    }
+}
